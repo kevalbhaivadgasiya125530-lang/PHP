@@ -1,0 +1,15 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Header&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;a href = &quot;&quot;&gt;Home&lt;/a&gt;
+&lt;a href = &quot;&quot;&gt;About Us&lt;/a&gt;
+&lt;a href = &quot;&quot;&gt;Service&lt;/a&gt;
+&lt;a href = &quot;&quot;&gt;Contact Us&lt;/a&gt;
+&lt;a href = &quot;&quot;&gt;Help&lt;/a&gt;
+&lt;/body&gt;
+&lt;/html&gt;
